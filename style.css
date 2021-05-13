@@ -81,6 +81,7 @@ ul {
 .card img {
   border-radius: 50%;
   width: 300px;
+  padding-top: 20px;
 }
 
 .card .fab {
