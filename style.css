@@ -112,4 +112,9 @@ ul {
   .card img {
   width: 150px;
   }
+
+  p {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
